@@ -7,6 +7,9 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
+
+  --yellow: #FFBF00;
+  --blue2: #0070C5;
 }
 * {
   box-sizing: border-box;
@@ -16,8 +19,8 @@ body {
   padding: 0;
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: var(--darkgray);
-  background-color: var(--white);
+  color: var(--white);
+  background-color: var(--darkgray);
 }
 p:last-child {
   margin-bottom: 0;
@@ -32,10 +35,10 @@ p,
   line-height: 1.45;
 }
 a[href] {
-  color: var(--blue);
+  color: var(--yellow);
 }
 a[href]:visited {
-  color: var(--navy);
+  color: var(--yellow);
 }
 main {
   padding: 1rem;
@@ -162,7 +165,7 @@ pre {
 .postlist-date,
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
-  color: var(--darkgray);
+  color: var(--lightgray);
 }
 .postlist-date {
   word-spacing: -0.5px;
@@ -188,7 +191,7 @@ pre {
   font-size: 0.625em; /* 10px /16 */
   padding: 2px 4px;
   margin-left: 0.8em; /* 8px /10 */
-  background-color: var(--red);
+  background-color: var(--blue2);
   color: var(--white);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;

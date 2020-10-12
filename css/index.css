@@ -6,6 +6,9 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
+
+  --yellow: #FFBF00;
+  --blue2: #0070C5;
 }
 
 /* Global stylesheet */
@@ -17,9 +20,9 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, system-ui, sans-serif;
-  color: var(--darkgray);
-  background-color: var(--white);
+  font-family: system-ui, sans-serif;
+  color: var(--white);
+  background-color: var(--darkgray);
 }
 p:last-child {
   margin-bottom: 0;
@@ -34,10 +37,10 @@ p,
   line-height: 1.45;
 }
 a[href] {
-  color: var(--blue);
+  color: var(--yellow);
 }
 a[href]:visited {
-  color: var(--navy);
+  color: var(--yellow);
 }
 main {
   padding: 1rem;
@@ -171,7 +174,7 @@ code {
 .postlist-date,
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
-  color: var(--darkgray);
+  color: var(--lightgray);
 }
 .postlist-date {
   word-spacing: -0.5px;
@@ -203,8 +206,8 @@ code {
   margin-left: 0.6666666666667em; /* 8px /12 */
   margin-top: 0.5em; /* 6px /12 */
   margin-bottom: 0.5em; /* 6px /12 */
-  color: var(--darkgray);
-  border: 1px solid var(--gray);
+  color: var(--white);
+  border: 1px solid var(--blue2);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
   line-height: 1.8;

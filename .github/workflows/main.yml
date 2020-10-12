@@ -1,0 +1,19 @@
+name: upload
+on: [push]
+jobs:
+  build_deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@master
+      - name: up
+        env:
+          AWS_ACCESS_KEY_ID: {% raw %}${{ secrets.AWS_ACCESS_KEY_ID }}{% endraw %}
+          AWS_SECRET_ACCESS_KEY: {% raw %}${{ secrets.AWS_SECRET_ACCESS_KEY }}{% endraw %}
+        run: |
+          npx @11ty/eleventy
+          aws s3 cp \
+            --recursive \
+            --acl public-read \
+            --region us-east-1 \
+            ./_site/ [s3://juancri-web]
+

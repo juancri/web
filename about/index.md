@@ -8,4 +8,5 @@ eleventyNavigation:
 ---
 
 - Twitter: [@juancriolivares](https://twitter.com/juancriolivares)
+- LinkedIn: [/in/juancri](https://www.linkedin.com/in/juancri)
 

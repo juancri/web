@@ -7,4 +7,5 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+- Twitter: [@juancriolivares](https://twitter.com/juancriolivares)
+

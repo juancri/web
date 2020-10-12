@@ -5,18 +5,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - name: up
+      - name: install awscli
+        run: |
+          sudo apt update
+          sudo apt install -y awscli
+      - name: build
+        run: |
+          npm install
+          npx @11ty/eleventy
+      - name: upload
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         run: |
-          apt update
-          apt install -y awscli
-          npm install
-          npx @11ty/eleventy
           aws s3 cp \
             --recursive \
             --acl public-read \
             --region us-east-1 \
             ./_site/ s3://juancri-web
-

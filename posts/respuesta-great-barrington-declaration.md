@@ -10,7 +10,7 @@ layout: layouts/post.njk
 
 # Introducción
 
-Aunque fue interesante hacer el ejercicio de responder a [*El desastre de las cuarentenas y la Great Barrington Declaration*](https://youtu.be/W2MrmOd0qbs), me da un poco de lata tener que comentar sobre Axel Kaiser, paladín del liberalismo que [cree que los impuestos son un robo](https://youtu.be/c1zTEFtgPGA).
+Aunque fue interesante hacer el ejercicio de responder a [*El desastre de las cuarentenas y la Great Barrington Declaration*](https://youtu.be/W2MrmOd0qbs) (**ACTUALIZACIÓN 14/10/2020:** El video fue bajado por YouTube debido a que infringió sus políticas al cuestionar explícitamente la eficacia de las políticas dictadas por la OMS o la autoridad sanitaria), me da un poco de lata tener que comentar sobre Axel Kaiser, paladín del liberalismo que [cree que los impuestos son un robo](https://youtu.be/c1zTEFtgPGA).
 
 # Las cuarentenas
 

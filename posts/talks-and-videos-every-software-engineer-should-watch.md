@@ -13,6 +13,7 @@ layout: layouts/post.njk
 - [The Problem with Time & Timezones - Computerphile](https://www.youtube.com/watch?v=-5wpm-gesOY)
 - [The Two Generals’ Problem](https://www.youtube.com/watch?v=IP-rGJKSZ3s)
 - [Console Hacking 2016 (33c3)](https://www.youtube.com/watch?v=QMiubC6LdTA)
+- ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 
 ## Software architecture
 

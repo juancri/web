@@ -11,9 +11,9 @@ layout: layouts/post.njk
 
 ## Introduction
 
-I love watching YouTube. Specially, technical talks and videos related with software development.
+I love watching YouTube. Specially, technical talks and videos related to software development.
 
-This is a small compilation of talks and technical videos that I have enjoyed. I went to the list of videos I have liked on YouTube and read 5,000+ of their titles to create this list. I'm sure there are others that I can't remember right now, but I'll try to keep this post updated ([history](https://github.com/juancri/web/commits/master/posts/talks-and-videos-every-software-engineer-should-watch.md)).
+This is a small compilation of talks and technical videos that I have enjoyed. I went through the list of videos I have liked on YouTube and read 5,000+ of their titles to create this list. I'm sure there are others that I can't remember right now, but I'll try to keep this post updated ([history](https://github.com/juancri/web/commits/master/posts/talks-and-videos-every-software-engineer-should-watch.md)).
 
 ## General
 

@@ -159,11 +159,12 @@ This is a small compilation of talks that I have anjoyed. I'll try to keep this 
 - [Did Nintendo really forget to Optimize Super Mario 64 ? | MVG](https://www.youtube.com/watch?v=NKlbE2eROC0)
 - [The Ultimate Game Boy Talk (33c3)](https://www.youtube.com/watch?v=HyzD8pNlpwI)
 
-## Humor
+## Humor and miscelaious
 
 - [Why is the Apple Calendar so broken?](https://www.youtube.com/watch?v=ER1a6jgW1Gs)
 - [When Spreadsheets Attack!](https://www.youtube.com/watch?v=yb2zkxHDfUE)
 - [Tabs or Spaces? (Soundcheck Question) - Computerphile](https://www.youtube.com/watch?v=8ryt45ShyYI)
+- [HDR Photography in Microsoft Excel?!](https://www.youtube.com/watch?v=Qj1bvWMDhtg)
 
 ## Awesome YouTube Channels
 

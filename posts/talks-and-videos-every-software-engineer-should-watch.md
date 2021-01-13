@@ -23,7 +23,6 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 
 ## Web
 
-- [Why The Web Is Such A Mess](https://www.youtube.com/watch?v=OFRjZtYs3wY)
 - [HTTP headers for the responsible developer by Stefan Judis | JSConf EU 2019](https://www.youtube.com/watch?v=Mjqf2kkFLy8)
 - [Predicting the Future of the Web Development (2020 and 2025)](https://www.youtube.com/watch?v=24tQRwIRP_w)
 
@@ -93,7 +92,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 
 - [Rust's Journey to Async/Await](https://www.youtube.com/watch?v=lJ3NC-R3gSI)
 
-## Hacking and hardware
+## Hacking, hardware and security
 
 - [How VGA Works](https://www.youtube.com/watch?v=5exFKr-JJtg)
 - [What does a computer mouse see?](https://www.youtube.com/watch?v=xWB9dP1AtDU)
@@ -103,25 +102,18 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
   - [Part 1](https://www.youtube.com/watch?v=hZRL8luuPb8)
   - [Part 2](https://www.youtube.com/watch?v=vV8FbwobrKY)
 - [28c3: Smart Hacking for Privacy](https://www.youtube.com/watch?v=YYe4SwQn2GE)
-
-## Security
-
 - [Worst JavaScript Flaws That Hackers Love To Abuse](https://www.youtube.com/watch?v=0dgmeTy7X3I)
 - [Attacking CPUs with Power Side Channels from Software: Warum leaked hier Strom? (en)](https://www.youtube.com/watch?v=scP-D-Idlc8)
 - [How Do I Crack Satellite and Cable Pay TV? (33c3)](https://www.youtube.com/watch?v=lhbSD1Jba0Q)
 - [Console Hacking 2016 (33c3)](https://www.youtube.com/watch?v=QMiubC6LdTA)
 - [Playstation 4 Hacked by fail0verflow presentation from 33C3](https://www.youtube.com/watch?v=VpB49dhk2uQ)
+- [The Ultimate Game Boy Talk (33c3)](https://www.youtube.com/watch?v=HyzD8pNlpwI)
 
 ## Game consoles
 
 - [Why is the Sony PlayStation PS3 so hard to emulate ? | MVG](https://www.youtube.com/watch?v=lLebZyha74o)
 - [How a pair of Tweezers defeated security on the Nintendo Wii | MVG](https://www.youtube.com/watch?v=4BlpONgj74A)
 - [Did Nintendo really forget to Optimize Super Mario 64 ? | MVG](https://www.youtube.com/watch?v=NKlbE2eROC0)
-- [The Ultimate Game Boy Talk (33c3)](https://www.youtube.com/watch?v=HyzD8pNlpwI)
-
-## Humor and miscellaneous
-
-- [HDR Photography in Microsoft Excel?!](https://www.youtube.com/watch?v=Qj1bvWMDhtg)
 
 ## Awesome YouTube Channels
 
@@ -129,6 +121,7 @@ These channels deserve their own category
 
 ### Tom Scott
 
+- [Why The Web Is Such A Mess](https://www.youtube.com/watch?v=OFRjZtYs3wY)
 - [The Two Generals’ Problem](https://www.youtube.com/watch?v=IP-rGJKSZ3s)
 - [How Binary Search Makes Computers Much, Much Faster](https://www.youtube.com/watch?v=KXJSjte_OAI)
 - [The Consequences of Your Code](https://www.youtube.com/watch?v=LZM9YdO_QKk)

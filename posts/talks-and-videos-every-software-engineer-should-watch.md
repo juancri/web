@@ -114,6 +114,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [Why is the Sony PlayStation PS3 so hard to emulate ? | MVG](https://www.youtube.com/watch?v=lLebZyha74o)
 - [How a pair of Tweezers defeated security on the Nintendo Wii | MVG](https://www.youtube.com/watch?v=4BlpONgj74A)
 - [Did Nintendo really forget to Optimize Super Mario 64 ? | MVG](https://www.youtube.com/watch?v=NKlbE2eROC0)
+- [Sega Saturn CD - Cracked after 20 years](https://www.youtube.com/watch?v=jOyfZex7B3E)
 
 ## Awesome YouTube Channels
 

@@ -23,6 +23,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 
 ## Web
 
+- [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y)
 - [HTTP headers for the responsible developer by Stefan Judis | JSConf EU 2019](https://www.youtube.com/watch?v=Mjqf2kkFLy8)
 - [Predicting the Future of the Web Development (2020 and 2025)](https://www.youtube.com/watch?v=24tQRwIRP_w)
 

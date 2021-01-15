@@ -117,6 +117,10 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [Did Nintendo really forget to Optimize Super Mario 64 ? | MVG](https://www.youtube.com/watch?v=NKlbE2eROC0)
 - [Sega Saturn CD - Cracked after 20 years](https://www.youtube.com/watch?v=jOyfZex7B3E)
 
+## Audio
+
+- [Hak5 - Pulse Code Modulation](https://www.youtube.com/watch?v=JEQXUoSzMLE)
+
 ## Awesome YouTube Channels
 
 These channels deserve their own category
@@ -182,6 +186,8 @@ These channels deserve their own category
 - [Recursion 'Super Power' (in Python) - Computerphile](https://www.youtube.com/watch?v=8lhxIOAfDss)
 - [The Knapsack Problem & Genetic Algorithms - Computerphile](https://www.youtube.com/watch?v=MacVqujSXWE)
 - [Tabs or Spaces? (Soundcheck Question) - Computerphile](https://www.youtube.com/watch?v=8ryt45ShyYI)
+- [How NOT to Store Passwords! - Computerphile](https://www.youtube.com/watch?v=8ZtInClXe1Q)
+- [How NOT to Sample Audio! - Computerphile](https://www.youtube.com/watch?v=VQOdmckqNro)
 
 ### Stand-up Maths
 

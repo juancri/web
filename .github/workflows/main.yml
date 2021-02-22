@@ -5,9 +5,12 @@ on:
       - master
 jobs:
   build_deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@master
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
       - name: build
         run: |
           npm install

@@ -1,10 +1,16 @@
-# 1. Install dependencies
+# Dependencies
+
+Requires:
+
+- Node 14.x
+
+# Install packages
 
 ```
 npm install
 ```
 
-# 2. Run Eleventy
+# Run Eleventy
 
 ```
 npx eleventy

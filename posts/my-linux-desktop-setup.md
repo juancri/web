@@ -45,6 +45,7 @@ Here's a list of software I install as soon as I have a new computer or installa
 
 - [pikaur](https://github.com/actionless/pikaur)
 - [pandoc](https://en.wikipedia.org/wiki/Pandoc)
+- [midnight commander](https://en.wikipedia.org/wiki/Midnight_Commander)
 
 ## Tips
 

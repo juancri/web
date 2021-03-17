@@ -47,7 +47,19 @@ Since I think I'm cool and hipster, and as mentioned before, I'm trying to use n
 
 This wizard configures a lot of things but I had to fix a few issues with the ports and protocols for AWS.
 
-As a reference, this is my current msmtp config file (`~/.config/msmtp/config`):
+This is the full command line:
+
+```
+mw -a juancri@juancri.com \
+  -n "JC Olivares" \
+  -i imap.mail.us-west-2.awsapps.com \
+  -I 993 \
+  -s smtp.mail.us-west-2.awsapps.com \
+  -S 465 \
+  -o
+```
+
+After that, I just had to add the option `tls on` to the msmtp config file. As a reference, this is my current msmtp config file (`~/.config/msmtp/config`):
 
 ```
 

@@ -107,7 +107,7 @@ The GitHub action workflow is [here](https://github.com/juancri/web/blob/master/
 
 Now all I have to do is to push to master and GitHub will automatically generate the website, sync with S3 and invalidate the CDN cache.
 
-***NOTE:*** I have had a few problem with this last cache invalidation step for a few weeks. Two options now are to wait for the cache to invalidate by its TTL or to run the invalidate command on my own computer.
+***NOTE:*** ~~I have had a few problem with this last cache invalidation step for a few weeks. Two options now are to wait for the cache to invalidate by its TTL or to run the invalidate command on my own computer.~~ This is fixed by [this commit](https://github.com/juancri/web/commit/f2da4831da64ef4954d7e746c984a4a59f150c89). Found the solution [here](https://github.com/aws/aws-cli/issues/5262).
 
 ## Summary
 

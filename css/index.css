@@ -20,7 +20,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family: -apple-system, system-ui, sans-serif;
   color: var(--white);
   background-color: var(--darkgray);
 }
@@ -208,6 +208,7 @@ code {
   margin-bottom: 0.5em; /* 6px /12 */
   color: var(--white);
   border: 1px solid var(--blue2);
+  background: var(--blue2);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
   line-height: 1.8;
@@ -215,10 +216,6 @@ code {
 a[href].post-tag,
 a[href].post-tag:visited {
   color: inherit;
-}
-a[href].post-tag:hover,
-a[href].post-tag:focus {
-  background-color: var(--lightgray);
 }
 .postlist-item > .post-tag {
   align-self: center;

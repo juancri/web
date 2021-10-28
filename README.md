@@ -1,3 +1,7 @@
+# Original repo
+
+https://github.com/11ty/eleventy-base-blog.git
+
 # Dependencies
 
 Requires:

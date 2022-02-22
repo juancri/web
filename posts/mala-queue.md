@@ -14,7 +14,13 @@ Intenté contactar a Puntoticket hace algunos días, pero no recibí ninguna res
 
 El código fuente se puede encontrar [aquí](https://github.com/juancri/Puntoticket-vulnerabilidad-fila-virtual) y es provisto sin ningún tipo de garantía bajo los términos de la [licencia MIT](https://es.wikipedia.org/wiki/Licencia_MIT). Usa bajo tu propio riesgo.
 
-Por el momento, el código filra las localidades que no tienen asientos numerados. La compra de asientos numerados requiere más investigación.
+Por el momento, el código filtra las localidades que no tienen asientos numerados. La compra de asientos numerados requiere más investigación.
+
+# Actualizaciones
+
+## 10:36am
+
+El paso de agregar tickets al carro ya no funciona. Probablemente fue bloqueado para el evento.
 
 # Guía rápida
 

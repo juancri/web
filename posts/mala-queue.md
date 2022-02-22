@@ -22,6 +22,10 @@ Por el momento, el código filtra las localidades que no tienen asientos numerad
 
 El paso de agregar tickets al carro ya no funciona. Probablemente fue bloqueado para el evento.
 
+## 11:00am
+
+El error cambió a *"Su lugar en la fila ya no es válido! Por favor refresque la página!"*. Parece haberse agregado una nueva validación.
+
 # Guía rápida
 
 Si no tienes tiempo para leer el post completo, estos son los pasos a seguir para poder saltarse la fila virtual de Puntoticket y comprar entradas para el segundo concierto de Bad Bunny en Chile, probado en Google Chrome 98

@@ -20,6 +20,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
 - ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 - [Profiling Desktop Applications - Federico Mena Quintero](http://video.fosdem.org/2007/FOSDEM2007-ProfilingDesktopApplication.ogg): I didn't find this talk on YouTube, so...
+- [Meet the inventor of the electronic spreadsheet | Dan Bricklin](https://www.youtube.com/watch?v=YDvbDiJZpy0)
 
 ## Web
 

@@ -8,7 +8,11 @@ tags:
 layout: layouts/post.njk
 ---
 
-# Aviso
+# Aviso 1
+
+**UPDATE (mayo, 2022): POR FAVOR, NO ME ESCRIBAS POR DM. ESTE ERROR DE SEGURIDAD YA FUE SOLUCIONADO POR PUNTO TICKET.**
+
+# Aviso 2
 
 Intenté contactar a Puntoticket hace algunos días, pero no recibí ninguna respuesta. La información contenida en este post tiene solo fines educativos y ha sido recolectada utilizando información de público acceso.
 

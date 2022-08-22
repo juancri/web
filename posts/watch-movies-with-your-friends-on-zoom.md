@@ -194,6 +194,40 @@ This is what I see when using Google Chrome to play a video from YouTube:
 
 We also neeed to select `call-input` as the *microphone* in our video call software. This is usually done directly in the video calling software. On zoom, just click on the arrow right to the microphone/mute button and select `call-input` as your mic.
 
+## UPDATE: The Mute Button
+
+If you need to mute your local microphone without muting the audio stream coming from the video player, you can use the following script. I have a shortcut assigned to it, so I can quickly mute/unmute the microphone at any time.
+
+```bash
+# Devices
+MICROPHONE_DEVICE="alsa_input.pci-0000_00_1f.3.analog-stereo"
+CALL_INPUT_DEVICE="call-input"
+
+# Count
+COUNT=$(pw-link -il "$CALL_INPUT_DEVICE" | grep -c "$MICROPHONE_DEVICE")
+
+if (( COUNT > 0 ))
+then
+    # Mute
+    pw-link -d \
+      "$MICROPHONE_DEVICE:capture_FL" \
+      "$CALL_INPUT_DEVICE:input_FL"
+    pw-link -d \
+      "$MICROPHONE_DEVICE:capture_FR" \
+      "$CALL_INPUT_DEVICE:input_FR"
+    notify-send -t 500 "muted"
+else
+    # Unmnute
+    pw-link \
+      "$MICROPHONE_DEVICE:capture_FL" \
+      "$CALL_INPUT_DEVICE:input_FL"
+    pw-link \
+      "$MICROPHONE_DEVICE:capture_FR" \
+      "$CALL_INPUT_DEVICE:input_FR"
+    notify-send -t 500 "unmuted"
+fi
+```
+
 ## The End
 
 That's all! Feel free to reach me on [Twitter](https://twitter.com/juancriolivares) if you have any questions.

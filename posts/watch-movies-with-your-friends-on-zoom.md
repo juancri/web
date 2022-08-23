@@ -135,7 +135,7 @@ This is a diagram of the solution including these two virtual devices:
 
 ![diagram](/img/audio-full.jpg)
 
-This is the bash script to create the virtual devices and connections. Make sure to replace the first two variables with your own hardware devices. You can list your devices by running `pw-link -l`.
+This is the bash script to create the virtual devices and connections. Make sure to replace the first two variables with your own hardware devices. You can list your devices by running `pw-link -io`.
 
 ```bash
 # Hardware devices

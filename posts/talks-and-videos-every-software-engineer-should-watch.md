@@ -110,6 +110,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [Console Hacking 2016 (33c3)](https://www.youtube.com/watch?v=QMiubC6LdTA)
 - [Playstation 4 Hacked by fail0verflow presentation from 33C3](https://www.youtube.com/watch?v=VpB49dhk2uQ)
 - [The Ultimate Game Boy Talk (33c3)](https://www.youtube.com/watch?v=HyzD8pNlpwI)
+- [Reproducible Builds](https://www.youtube.com/watch?v=ilu6yMBGS6I)
 
 ## Game consoles
 

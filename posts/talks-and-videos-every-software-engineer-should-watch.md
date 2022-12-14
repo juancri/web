@@ -75,6 +75,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [TypeScript: Static Types for JavaScript](https://www.youtube.com/watch?v=484iWaZQJbo)
 - [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
 - [Async Iterators & Generators - HTTP203 Advent](https://www.youtube.com/watch?v=CyAhHG-1AiI)
+- [Typed JavaScript? For real? The type annotations proposal and what it’s all about](https://www.youtube.com/watch?v=8EXuuLtYFY0)
 
 ### Java (RxJava)
 
@@ -152,6 +153,10 @@ These channels deserve their own category
 - [Subroutine calls, now with RAM — 6502 part 7](https://www.youtube.com/watch?v=omI0MrTWiMU)
 - [World's worst video card gets better?](https://www.youtube.com/watch?v=BUTHtNrpwiI)
 - [How assembly language loops work](https://www.youtube.com/watch?v=ZYJIakkcLYw)
+- [How does a USB keyboard work?](https://www.youtube.com/watch?v=wdgULBpRoXk)
+- [How does USB device discovery work?](https://www.youtube.com/watch?v=N0O5Uwc3C0o)
+- [How does n-key rollover work?](https://www.youtube.com/watch?v=2lPzTU-3ONI)
+- [The RS-232 protocol](https://www.youtube.com/watch?v=AHYNxpqKqwo)
 
 ### LiveOverflow
 

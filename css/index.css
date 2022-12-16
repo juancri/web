@@ -56,6 +56,9 @@ header:after {
   display: table;
   clear: both;
 }
+footer {
+  padding: 10px;
+}
 table {
   margin: 1em 0;
 }

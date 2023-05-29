@@ -37,6 +37,10 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 
 - [Uncle Bob SOLID principles](https://www.youtube.com/watch?v=zHiWqnTWsn4)
 
+## Operations / Observability
+
+- [AWS re:Invent 2022 - Observability best practices at Amazon (COP343)](https://www.youtube.com/watch?v=zZPzXEBW4P8)
+
 ## Tools
 
 ### Git

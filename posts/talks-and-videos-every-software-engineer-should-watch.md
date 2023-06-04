@@ -128,6 +128,10 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 
 - [Hak5 - Pulse Code Modulation](https://www.youtube.com/watch?v=JEQXUoSzMLE)
 
+## Networking
+
+- [THE UNTOLD STORY: How the PIX Firewall and NAT Saved the Internet](https://www.youtube.com/watch?v=GLrfqtf4txw)
+
 ## Awesome YouTube Channels
 
 These channels deserve their own category

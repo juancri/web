@@ -21,6 +21,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 - [Profiling Desktop Applications - Federico Mena Quintero](http://video.fosdem.org/2007/FOSDEM2007-ProfilingDesktopApplication.ogg): I didn't find this talk on YouTube, so...
 - [Meet the inventor of the electronic spreadsheet | Dan Bricklin](https://www.youtube.com/watch?v=YDvbDiJZpy0)
+- [Why Static Typing Came Back • Richard Feldman • GOTO 2022](https://www.youtube.com/watch?v=Tml94je2edk)
 
 ## Web
 

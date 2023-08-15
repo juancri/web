@@ -125,9 +125,10 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [Did Nintendo really forget to Optimize Super Mario 64 ? | MVG](https://www.youtube.com/watch?v=NKlbE2eROC0)
 - [Sega Saturn CD - Cracked after 20 years](https://www.youtube.com/watch?v=jOyfZex7B3E)
 
-## Audio
+## Audio / Telephony
 
 - [Hak5 - Pulse Code Modulation](https://www.youtube.com/watch?v=JEQXUoSzMLE)
+- [Hak5 - Time Division Multiplexing](https://www.youtube.com/watch?v=o8VBV6v2Tcs)
 
 ## Networking
 

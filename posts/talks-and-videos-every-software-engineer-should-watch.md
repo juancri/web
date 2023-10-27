@@ -22,6 +22,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [Profiling Desktop Applications - Federico Mena Quintero](http://video.fosdem.org/2007/FOSDEM2007-ProfilingDesktopApplication.ogg): I didn't find this talk on YouTube, so...
 - [Meet the inventor of the electronic spreadsheet | Dan Bricklin](https://www.youtube.com/watch?v=YDvbDiJZpy0)
 - [Why Static Typing Came Back • Richard Feldman • GOTO 2022](https://www.youtube.com/watch?v=Tml94je2edk)
+- [Plain Text • Dylan Beattie • GOTO 2023](https://www.youtube.com/watch?v=4mRxIgu9R70)
 
 ## Web
 

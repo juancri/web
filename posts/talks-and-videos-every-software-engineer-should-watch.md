@@ -122,6 +122,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [Playstation 4 Hacked by fail0verflow presentation from 33C3](https://www.youtube.com/watch?v=VpB49dhk2uQ)
 - [The Ultimate Game Boy Talk (33c3)](https://www.youtube.com/watch?v=HyzD8pNlpwI)
 - [Reproducible Builds](https://www.youtube.com/watch?v=ilu6yMBGS6I)
+- [DEF CON 31 - Badge of Shame Breaking into Secure Facilities with OSDP -Dan Petro, David Vargas](https://www.youtube.com/watch?v=zNpM_l5l0sE)
 
 ## Game consoles
 

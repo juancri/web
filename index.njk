@@ -5,13 +5,7 @@ eleventyNavigation:
   order: 1
 ---
 {% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest Posts</h1>
 
 {% set postslist = collections.posts %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
-
-<!-- enable soon:
-
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
--->

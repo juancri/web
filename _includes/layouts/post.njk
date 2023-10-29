@@ -5,7 +5,8 @@ templateClass: tmpl-post
 <h1>{{ title }}</h1>
 <div><a href="https://github.com/juancri/web/commits/master/posts/{{ page.fileSlug }}.md">history</a></div>
 
-<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+Created: <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time><br />
+Last modified: {{ page.inputPath | getGitCommitDateFromPath | readableDate }}<br />
 {%- for tag in tags | filterTagList -%}
 {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
 <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>

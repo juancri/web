@@ -212,6 +212,7 @@ These channels deserve their own category
 - [Tabs or Spaces? (Soundcheck Question) - Computerphile](https://www.youtube.com/watch?v=8ryt45ShyYI)
 - [How NOT to Store Passwords! - Computerphile](https://www.youtube.com/watch?v=8ZtInClXe1Q)
 - [How NOT to Sample Audio! - Computerphile](https://www.youtube.com/watch?v=VQOdmckqNro)
+- [Binary Search Algorithm - Computerphile](https://www.youtube.com/watch?v=hDn8iOc30Tk)
 
 ### Stand-up Maths
 

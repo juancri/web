@@ -155,6 +155,7 @@ These channels deserve their own category
 - [⚫ How The Black Point Message Crashes Android Apps](https://www.youtube.com/watch?v=jC4NNUYIIdM)
 - [FizzBuzz: One Simple Interview Question](https://www.youtube.com/watch?v=QPZ0pIK_wsc)
 - [Why 2020 Started On December 30th](https://www.youtube.com/watch?v=D3jxx8Yyw1c)
+- [The Lava Lamps That Help Keep The Internet Secure](https://www.youtube.com/watch?v=1cUUfMeOijg)
 
 ### Ben Eater
 

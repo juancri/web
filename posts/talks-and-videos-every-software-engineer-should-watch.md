@@ -195,6 +195,7 @@ These channels deserve their own category
 - [Cannot access memory at address // Debugging PIE Binaries affected by ASLR - bin 0x2E](https://www.youtube.com/watch?v=pphfcaGnWSA)
 - [Zero-day vulnerability in Bash - Suidbash Google CTF Finals 2019 (pwn)](https://www.youtube.com/watch?v=-wGtxJ8opa8)
 - [What is a Protocol? (Deepdive)](https://www.youtube.com/watch?v=d-zn-wv4Di8)
+- [How Do Linux Kernel Drivers Work? - Learning Resource](https://www.youtube.com/watch?v=juGNPLdjLH4)
 
 ### Computerphile
 

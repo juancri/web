@@ -224,3 +224,4 @@ These videos are more about maths than software engineering, but we should know 
 - [There is only One True Parabola](https://www.youtube.com/watch?v=hoh4TmPzu1w)
 - [Why is the Apple Calendar so broken?](https://www.youtube.com/watch?v=ER1a6jgW1Gs)
 - [When Spreadsheets Attack!](https://www.youtube.com/watch?v=yb2zkxHDfUE)
+- [The beautiful maths which makes 5G faster than 4G, faster than 3G, faster than...](https://www.youtube.com/watch?v=To7Ll5AGboI)

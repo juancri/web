@@ -72,6 +72,9 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 
 - [AlphaFold: The making of a scientific breakthrough](https://www.youtube.com/watch?v=gg7WjuFs8F4)
 - [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+- [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
+- [Gradient descent, how neural networks learn | Chapter 2, Deep learning](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+- [What is backpropagation really doing? | Chapter 3, Deep learning](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 
 ## Languages
 

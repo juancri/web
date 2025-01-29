@@ -6,7 +6,7 @@ https://github.com/11ty/eleventy-base-blog.git
 
 Requires:
 
-- Node 20.x
+- Node 22.x
 
 # Install packages
 

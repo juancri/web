@@ -143,6 +143,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 ## Networking
 
 - [THE UNTOLD STORY: How the PIX Firewall and NAT Saved the Internet](https://www.youtube.com/watch?v=GLrfqtf4txw)
+- [38C3 - A dive into DNS](https://www.youtube.com/watch?v=lK6X_8U-cnk)
 
 ## Awesome YouTube Channels
 

@@ -222,6 +222,7 @@ These channels deserve their own category
 - [How NOT to Sample Audio! - Computerphile](https://www.youtube.com/watch?v=VQOdmckqNro)
 - [Binary Search Algorithm - Computerphile](https://www.youtube.com/watch?v=hDn8iOc30Tk)
 - [How CPUs do Out Of Order Operations - Computerphile](https://www.youtube.com/watch?v=jNC9LPc3BI0)
+- [Transport Layer Security (TLS)](https://www.youtube.com/watch?v=0TLDTodL7Lc)
 
 ### Stand-up Maths
 

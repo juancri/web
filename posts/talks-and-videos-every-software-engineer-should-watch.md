@@ -179,6 +179,7 @@ These channels deserve their own category
 - [How does USB device discovery work?](https://www.youtube.com/watch?v=N0O5Uwc3C0o)
 - [How does n-key rollover work?](https://www.youtube.com/watch?v=2lPzTU-3ONI)
 - [The RS-232 protocol](https://www.youtube.com/watch?v=AHYNxpqKqwo)
+- [RS232 interface with the 6551 UART](https://www.youtube.com/watch?v=zsERDRM1oy8)
 
 ### LiveOverflow
 

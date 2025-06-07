@@ -226,6 +226,7 @@ These channels deserve their own category
 - [Secret Key Exchange (Diffie-Hellman)](https://www.youtube.com/watch?v=NmM9HA2MQGI)
 - [Transport Layer Security (TLS)](https://www.youtube.com/watch?v=0TLDTodL7Lc)
 - [TLS Handshake Explained](https://www.youtube.com/watch?v=86cQJ0MMses)
+- [Breaking RSA](https://www.youtube.com/watch?v=-ShwJqAalOk)
 
 ### Stand-up Maths
 

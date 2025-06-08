@@ -227,6 +227,7 @@ These channels deserve their own category
 - [Transport Layer Security (TLS)](https://www.youtube.com/watch?v=0TLDTodL7Lc)
 - [TLS Handshake Explained](https://www.youtube.com/watch?v=86cQJ0MMses)
 - [Breaking RSA](https://www.youtube.com/watch?v=-ShwJqAalOk)
+- [What are Digital Signatures?](https://www.youtube.com/watch?v=s22eJ1eVLTU)
 
 ### Stand-up Maths
 

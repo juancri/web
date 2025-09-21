@@ -75,6 +75,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
 - [Gradient descent, how neural networks learn | Chapter 2, Deep learning](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 - [What is backpropagation really doing? | Chapter 3, Deep learning](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+- [LLM Tokens, explained in TypeScript](https://www.youtube.com/watch?v=nKSk_TiR8YA)
 
 ## Languages
 
@@ -127,6 +128,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [Reproducible Builds](https://www.youtube.com/watch?v=ilu6yMBGS6I)
 - [DEF CON 31 - Badge of Shame Breaking into Secure Facilities with OSDP -Dan Petro, David Vargas](https://www.youtube.com/watch?v=zNpM_l5l0sE)
 - [I ported THOUSANDS of apps to Windows 95](https://www.youtube.com/watch?v=CTUMNtKQLl8)
+- [Apollo Comms Part 35: PCM Telemetry - Power Up](https://www.youtube.com/watch?v=F2u5QUE4KgA)
 
 ## Game consoles
 

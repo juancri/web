@@ -5,6 +5,7 @@ tags:
   - english
   - software
   - development
+  - ai
 layout: layouts/post.njk
 ---
 

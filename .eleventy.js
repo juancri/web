@@ -6,6 +6,7 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const pluginGitCommitDate = require("eleventy-plugin-git-commit-date");
+const pluginLinkTo = require('eleventy-plugin-link_to');
 
 module.exports = function(eleventyConfig) {
   // Add plugins
@@ -13,6 +14,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
   eleventyConfig.addPlugin(pluginGitCommitDate);
+  eleventyConfig.addPlugin(pluginLinkTo);
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);

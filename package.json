@@ -28,9 +28,10 @@
     "@11ty/eleventy-navigation": "^1.0.4",
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
+    "eleventy-plugin-git-commit-date": "^0.1.3",
+    "eleventy-plugin-link_to": "^0.4.1",
     "luxon": "^3.7.1",
     "markdown-it": "^14.1.0",
-    "markdown-it-anchor": "^9.2.0",
-    "eleventy-plugin-git-commit-date": "^0.1.3"
+    "markdown-it-anchor": "^9.2.0"
   }
 }

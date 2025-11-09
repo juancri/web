@@ -68,14 +68,14 @@ Make sure to replace `YOUR_API_KEY` with your real key.
 
 ### Google Chrome DevTools
 
-The [Chrome DevTools MCP server](https://github.com/alp82/mcp-server-chrome-devtools) allows Claude Code to interact with Chrome DevTools Protocol (CDP). This enables debugging, inspecting, and controlling Chrome browsers programmatically. It's particularly useful for web development, automated testing, and browser automation tasks.
+The [Chrome DevTools MCP server](https://github.com/ChromeDevTools/chrome-devtools-mcp/) allows Claude Code to interact with Chrome DevTools Protocol (CDP). This enables debugging, inspecting, and controlling Chrome browsers programmatically. It's particularly useful for web development, automated testing, and browser automation tasks.
 
 To install the Chrome DevTools MCP server to the project in the current directory, run:
 
 ```bash
 claude mcp add \
   chrome-devtools \
-  npx -y mcp-server-chrome-devtools
+  npx -y chrome-devtools-mcp@latest
 ```
 
 ## Clear the Context Often

@@ -78,6 +78,20 @@ claude mcp add \
   npx -y chrome-devtools-mcp@latest
 ```
 
+### Growthbook
+
+I use growthbook to define feature flags and rollout new features. You can setup the growthbook MCP server by running:
+
+```bash
+claude mcp add \
+  -e GB_EMAIL=your@email.com \
+  -e GB_API_KEY=secret_admin_ABCDEF \
+  -- growthbook npx \
+    -y @growthbook/mcp@latest \
+    -e GB_EMAIL \
+    -e GB_API_KEY
+```
+
 ## Clear the Context Often
 
 After a new feature is implemented or a bug is fixed, clean your context by running `/clean`. This will initialize a new context with the project information but without the noise of any previous task.

@@ -43,8 +43,8 @@ To quickly set up the MCP server for the current directory, run:
 
 ```bash
 claude mcp add \
-  -e DATABASE_URI="postgresql://" -- \
-  database docker run \
+  -e DATABASE_URI="postgresql://" \
+  -- database docker run \
     -i --rm \
     -e DATABASE_URI \
     crystaldba/postgres-mcp \
@@ -59,7 +59,7 @@ To install the Context7 MCP server to the project in the current directory, run:
 ```bash
 claude mcp add \
   --transport http \
-  context7 \
+  -- context7 \
   https://mcp.context7.com/mcp \
   --header "CONTEXT7_API_KEY: YOUR_API_KEY"
 ```
@@ -74,7 +74,7 @@ To install the Chrome DevTools MCP server to the project in the current director
 
 ```bash
 claude mcp add \
-  chrome-devtools \
+  -- chrome \
   npx -y chrome-devtools-mcp@latest
 ```
 
@@ -135,3 +135,12 @@ If you realize Claude Code usually makes changes to a project but does not run t
 ```
 
 Then, Claude Code will ask you where to store this. Since this specific example is valid for a specific project, I would choose to store it in the project's `CLAUDE.md` file.
+
+## More than coding
+
+Here are a few cases for which I use Claude code, beside coding:
+
+- **Investigations:** When there's a bug that involves multiple components, Claude is really good on performing an investigation. It can connect to the database, growthbook, and reproduce issues by using Chrome. If the issue is not trivial, Claude can give you a hand.
+- **Guided navigation:** I needed to configure a new certificate for an iOS app using the Apple Developer website. Since I don't have enough experience with it, I used the Chrome devtools MCP to guide me and configure it for me.
+- **Summarize documents:** Even when these documents are not related with software at all, Claude can summarize them and help you.
+- **Create other documents:** Markdown, LaTeX, D2 diagrams, etc. Claude knows all of them and can help you to generate or modify them.

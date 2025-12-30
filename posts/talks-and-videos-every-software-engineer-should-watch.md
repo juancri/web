@@ -46,6 +46,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 ## Graphics
 
 - [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
+- [Graphics API is irrelevant](https://www.youtube.com/watch?v=xNX9H_ZkfNE)
 
 ## Tools
 

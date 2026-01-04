@@ -130,6 +130,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [DEF CON 31 - Badge of Shame Breaking into Secure Facilities with OSDP -Dan Petro, David Vargas](https://www.youtube.com/watch?v=zNpM_l5l0sE)
 - [I ported THOUSANDS of apps to Windows 95](https://www.youtube.com/watch?v=CTUMNtKQLl8)
 - [Apollo Comms Part 35: PCM Telemetry - Power Up](https://www.youtube.com/watch?v=F2u5QUE4KgA)
+- [39C3 - Set-top box Hacking: freeing the 'Freebox'](https://www.youtube.com/watch?v=V93pNsjgJXA)
 
 ## Game consoles
 

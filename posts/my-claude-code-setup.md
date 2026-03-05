@@ -126,7 +126,7 @@ Then, Claude Code will ask you where to store this. Since this specific example 
 
 If you see any issues with the current approach Claude is taking, you can always stop it by pressing Escape and correct it.
 
-## More than codingCreate other document
+## More than coding
 
 Here are a few cases for which I use Claude code, beside coding:
 

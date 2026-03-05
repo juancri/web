@@ -124,8 +124,7 @@ Then, Claude Code will ask you where to store this. Since this specific example 
 
 ## Don't be afraid to interrupt claude
 
-If you see any issues with the current approach Claude is taking, you can always stop it by
-pressing Escape and correct it.
+If you see any issues with the current approach Claude is taking, you can always stop it by pressing Escape and correct it.
 
 ## More than codingCreate other document
 

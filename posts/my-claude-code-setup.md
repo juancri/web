@@ -78,20 +78,6 @@ claude mcp add \
   npx -y chrome-devtools-mcp@latest
 ```
 
-### Growthbook
-
-I use growthbook to define feature flags and rollout new features. You can setup the growthbook MCP server by running:
-
-```bash
-claude mcp add \
-  -e GB_EMAIL=your@email.com \
-  -e GB_API_KEY=secret_admin_ABCDEF \
-  -- growthbook npx \
-    -y @growthbook/mcp@latest \
-    -e GB_EMAIL \
-    -e GB_API_KEY
-```
-
 ## Clear the Context Often
 
 After a new feature is implemented or a bug is fixed, clean your context by running `/clean`. This will initialize a new context with the project information but without the noise of any previous task.
@@ -136,7 +122,12 @@ If you realize Claude Code usually makes changes to a project but does not run t
 
 Then, Claude Code will ask you where to store this. Since this specific example is valid for a specific project, I would choose to store it in the project's `CLAUDE.md` file.
 
-## More than coding
+## Don't be afraid to interrupt claude
+
+If you see any issues with the current approach Claude is taking, you can always stop it by
+pressing Escape and correct it.
+
+## More than codingCreate other document
 
 Here are a few cases for which I use Claude code, beside coding:
 

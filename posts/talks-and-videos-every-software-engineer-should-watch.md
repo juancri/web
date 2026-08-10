@@ -68,6 +68,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 ### Databases
 
 - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
+- [Reliability Lessons From SQLite - Richard Hipp | SSW 2026 ](https://www.youtube.com/watch?v=V_qzqY1bb7I)
 
 ## Machine learning
 

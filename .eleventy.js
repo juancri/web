@@ -1,16 +1,18 @@
 const { DateTime } = require("luxon");
 const fs = require("fs");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+const { rssPlugin } = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
-const pluginGitCommitDate = require("eleventy-plugin-git-commit-date");
 const pluginLinkTo = require('eleventy-plugin-link_to');
 
-module.exports = function(eleventyConfig) {
+module.exports = async function(eleventyConfig) {
+  // eleventy-plugin-git-commit-date is ESM-only, so it can't be require()d
+  const { default: pluginGitCommitDate } = await import("eleventy-plugin-git-commit-date");
+
   // Add plugins
-  eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(rssPlugin);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
   eleventyConfig.addPlugin(pluginGitCommitDate);

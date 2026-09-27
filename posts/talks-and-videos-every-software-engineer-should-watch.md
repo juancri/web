@@ -132,6 +132,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [I ported THOUSANDS of apps to Windows 95](https://www.youtube.com/watch?v=CTUMNtKQLl8)
 - [Apollo Comms Part 35: PCM Telemetry - Power Up](https://www.youtube.com/watch?v=F2u5QUE4KgA)
 - [39C3 - Set-top box Hacking: freeing the 'Freebox'](https://www.youtube.com/watch?v=V93pNsjgJXA)
+- [What Exactly Happens when you Tap your Credit Card? 💳📡](https://www.youtube.com/watch?v=N_6k_jd5pnA)
 
 ## Game consoles
 

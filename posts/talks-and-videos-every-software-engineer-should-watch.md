@@ -145,6 +145,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 
 - [Hak5 - Pulse Code Modulation](https://www.youtube.com/watch?v=JEQXUoSzMLE)
 - [Hak5 - Time Division Multiplexing](https://www.youtube.com/watch?v=o8VBV6v2Tcs)
+- [They built a phone company for one weekend](https://www.youtube.com/watch?v=pQdxlJQ5_fQ)
 
 ## Networking
 

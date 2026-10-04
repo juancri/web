@@ -133,6 +133,7 @@ This is a small compilation of talks and technical videos that I have enjoyed. I
 - [Apollo Comms Part 35: PCM Telemetry - Power Up](https://www.youtube.com/watch?v=F2u5QUE4KgA)
 - [39C3 - Set-top box Hacking: freeing the 'Freebox'](https://www.youtube.com/watch?v=V93pNsjgJXA)
 - [What Exactly Happens when you Tap your Credit Card? 💳📡](https://www.youtube.com/watch?v=N_6k_jd5pnA)
+- [Serial Communication Explained: UART, I2C & SPI](https://www.youtube.com/watch?v=Xik_uetzn2M)
 
 ## Game consoles
 
